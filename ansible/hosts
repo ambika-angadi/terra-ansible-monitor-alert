@@ -1,0 +1,3 @@
+prometheus ansible_host=18.193.81.211 ansible_user=ubuntu ansible_ssh_private_key_file=/home/ambika/.ssh/awskey
+
+exporter ansible_host=18.185.121.83 ansible_user=ubuntu ansible_ssh_private_key_file=/home/ambika/.ssh/awskey
